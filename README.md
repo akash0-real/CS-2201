@@ -1,2 +1,2 @@
 # CS-2201
-clgs dbms repo
+THis is my College repo of DBMS
