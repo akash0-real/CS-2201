@@ -1,2 +1,2 @@
 # CS-2201
-THis is my College repo of DBMS
+This is my College's repo of DBMS
